@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there 👋
+## I'm Jordan, an Information Programming student based in Portugal
+## I'm currently working on fleshing out my knowledge in my preferred languages and gaining hands on experience
+## My main tech stack is Python, C, C++, HTML/CSS and Java
+## I have a bunch of ideas which I'm planning to start turning into projects soon
+## One of my goals is to contribute to as many open source projects as possible🙂‍↔️
 
 <!--
 **joo-glitchy/joo-glitchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
