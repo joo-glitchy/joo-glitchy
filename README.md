@@ -5,6 +5,9 @@
 ### I have a bunch of ideas which I'm planning to start turning into projects soon
 ### One of my goals is to contribute to as many open source projects as possible😀
 
+### Fun fact
+  - I'm the only programmer I know who- for lack of a better word -despises gaming🫤
+
 <!--
 **joo-glitchy/joo-glitchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
