@@ -6,6 +6,7 @@
 <p>One of my goals is to contribute to as many open source projects as possible😀
 </p> 
 <p> Fun fact</p>
+
   - I'm the only programmer I know who- for lack of a better word -despises gaming🫤
 
 <!--
