@@ -1,5 +1,5 @@
 ## Hey there 👋
-### I'm Jordan, an Information Programming student based in Portugal
+<p>I'm Jordan, an Information Programming student based in Portugal</p> 
 ### I'm currently working on fleshing out my knowledge in my preferred languages and gaining hands on experience
 ### My main tech stack is Python, C, C++, HTML/CSS and Java
 ### I have a bunch of ideas which I'm planning to start turning into projects soon
