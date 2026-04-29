@@ -1,11 +1,11 @@
 ## Hey there 👋
 <p>I'm Jordan, an Information Programming student based in Portugal</p> 
-### I'm currently working on fleshing out my knowledge in my preferred languages and gaining hands on experience
-### My main tech stack is Python, C, C++, HTML/CSS and Java
-### I have a bunch of ideas which I'm planning to start turning into projects soon
-### One of my goals is to contribute to as many open source projects as possible😀
-
-### Fun fact
+<p>I'm currently working on fleshing out my knowledge in my preferred languages and gaining hands on experience</p> 
+<p>My main tech stack is Python, C, C++, HTML/CSS and Java</p> 
+<p>I have a bunch of cool ideas which I'm planning to start turning into projects soon</p>
+<p>One of my goals is to contribute to as many open source projects as possible😀
+</p> 
+<p> Fun fact</p>
   - I'm the only programmer I know who- for lack of a better word -despises gaming🫤
 
 <!--
