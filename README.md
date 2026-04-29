@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there 😵‍💫
 <p>I'm Jordan, an Information Programming student based in Portugal</p> 
 <p>I'm currently working on fleshing out my knowledge in my preferred languages and gaining hands on experience</p> 
 <p>My main tech stack is Python, C, C++, HTML/CSS and Java</p> 
